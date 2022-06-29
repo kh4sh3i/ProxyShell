@@ -51,4 +51,5 @@ Apply the security updates found here: [CVE-2021-34473](https://msrc.microsoft.c
 ### Reference
 * [proxylogon orange](https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html)
 * [proxylogon orange 2](https://blog.orange.tw/2021/08/proxyoracle-a-new-attack-surface-on-ms-exchange-part-2.html)
+* [python2](https://www.how2shout.com/linux/how-to-install-python-2-7-on-ubuntu-20-04-lts/)
 
