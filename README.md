@@ -16,10 +16,15 @@ https://xxx.xxx.xxx.xxx/autodiscover/autodiscover.json?@foo.com/mapi/nspi/?&Emai
 
 
 
-## Proxyshell-Scanner
+## Scanner
 nuclei scanner for Proxyshell RCE (CVE-2021-34423,CVE-2021-34473,CVE-2021-31207) discovered by orange tsai in Pwn2Own, which affect microsoft exchange server.
 ```
 nuclei -u target.com -t proxyshell.yaml
+```
+
+## shodan target 
+```python
+sudo python3 shodan-query.py
 ```
 
 
