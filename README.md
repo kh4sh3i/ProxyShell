@@ -32,3 +32,10 @@ nuclei -u target.com -t proxyshell.yaml
 * Attempts to discover LegacyDNs from builtin emails
 * Attempts to discover SID of Exchange server in load-balanced deployments
 * Handles exploitation in load-balanced environments
+
+
+
+#### Reference
+* [proxylogon orange](https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html)
+* [proxylogon orange 2](https://blog.orange.tw/2021/08/proxyoracle-a-new-attack-surface-on-ms-exchange-part-2.html)
+
