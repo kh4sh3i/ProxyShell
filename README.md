@@ -11,3 +11,13 @@ https://xxx.xxx.xxx.xxx/autodiscover/autodiscover.json?@foo.com/mapi/nspi/?&Emai
 
 1) CVE-2021-34523 - Exchange PowerShell Backend Elevation-of-Privilege
 2) CVE-2021-31207 - Post-auth Arbitrary-File-Write
+
+
+
+### Features
+* No email address needs to be supplied
+* Attempts to enumerate emails from Active Directory
+* Attempts to enumerate LegacyDNs from Active Directory
+* Attempts to discover LegacyDNs from builtin emails
+* Attempts to discover SID of Exchange server in load-balanced deployments
+* Handles exploitation in load-balanced environments
