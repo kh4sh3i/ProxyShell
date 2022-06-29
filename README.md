@@ -35,7 +35,7 @@ nuclei -u target.com -t proxyshell.yaml
 
 
 ### Mitigations
-Apply the security updates found here: [VE-2021-34473](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473)
+Apply the security updates found here: [CVE-2021-34473](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473)
 
 
 
