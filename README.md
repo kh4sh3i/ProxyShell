@@ -43,18 +43,18 @@ sudo python3 ProxyShell.py -u https://<IP>
 
 
 
+### manual pentest
+```python
+ python2 /manual/check.py 
+ sudo python3 /manual/proxyshell.py
+ python2 /manual/shell.py 
+```
+
+
 ### Tips:
 * recon target to find valid email address
 * if you do not find any email, use bruteforce target with your email file.
 * in some target automation exploit not work, you should bruteforce SID and replace in SID=500
-
-
-### manual pentest
-```python
-sudo python2 /manual/check.py 
-sudo python2 /manual/shell.py 
-sudo python2 /manual/brute.py 
-```
 
 
 
