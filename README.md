@@ -61,6 +61,11 @@ sudo python3 ProxyShell.py -u https://<IP>
 ### Mitigations
 Apply the security updates found here: [CVE-2021-34473](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473)
 
+<img src="/img/1.png" width="800px" />
+<img src="/img/2.png" width="800px" />
+<img src="/img/3.png" width="800px" />
+<img src="/img/4.png" width="800px" />
+<img src="/img/5.png" width="800px" />
 
 ### Reference
 * [proxylogon orange](https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html)
